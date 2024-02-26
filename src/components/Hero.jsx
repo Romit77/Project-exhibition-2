@@ -14,7 +14,7 @@ const ShuffleHero = () => {
           Project Exhibition-2
         </motion.span>
         <motion.h3
-          className="text-5xl md:text-5xl font-semibold text-white font-bold "
+          className="text-5xl md:text-5xl font-bold text-white "
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 1 }}
@@ -27,8 +27,8 @@ const ShuffleHero = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.5 }}
         >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores,
-          alias.
+          Utilizing Python, NLP, and TensorFlow to power advanced plagiarism
+          detection.
         </motion.p>
         <motion.button
           className="bg-indigo-500 text-white font-medium py-2 px-4 rounded-lg transition-all hover:bg-indigo-600 active:scale-95  "
@@ -36,7 +36,12 @@ const ShuffleHero = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 2 }}
         >
-          Check it out
+          <a
+            href="https://drive.google.com/file/d/1FzlZX17vJS0NretJuQnZRwV-mZ00arMT/view?usp=sharing"
+            target="_blank"
+          >
+            Check it Out
+          </a>
         </motion.button>
       </motion.div>
       <ShuffleGrid />
