@@ -32,7 +32,6 @@ const ShuffleHero = () => {
         </motion.p>
         <motion.button
           className="bg-indigo-500 text-white font-medium py-2 px-4 rounded-lg transition-all hover:bg-indigo-600 active:scale-95  "
-          // className="rounded-2xl border-2  border-black bg-indigo-500 px-1 py-3 font-semibold  text-white transition-all duration-300 hover:translate-x-[-4px] hover:translate-y-[-4px] hover:rounded-md hover:shadow-[4px_4px_0px_black] active:translate-x-[0px] active:translate-y-[0px] active:rounded-2xl active:shadow-none w-[150px] my-2 md:mx-[0px]"
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 2 }}
