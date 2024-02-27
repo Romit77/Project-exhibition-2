@@ -68,23 +68,23 @@ const shuffle = (array) => {
 const squareData = [
   {
     id: 1,
-    src: "/angular.png",
+    src: "/node.png",
   },
   {
     id: 2,
-    src: "/appwrite.png",
+    src: "/firebase.png",
   },
   {
     id: 3,
-    src: "/github.png",
+    src: "/gitlab.png",
   },
   {
     id: 4,
-    src: "/docker.png",
+    src: "/next.png",
   },
   {
     id: 5,
-    src: "/cicd.png",
+    src: "/aws.png",
   },
   {
     id: 6,
@@ -92,43 +92,43 @@ const squareData = [
   },
   {
     id: 7,
-    src: "/NEXT.png",
+    src: "/github.png",
   },
   {
     id: 8,
-    src: "/react.png",
+    src: "/appw.png",
   },
   {
     id: 9,
-    src: "/shad.png",
-  },
-  {
-    id: 10,
-    src: "/aws.png",
-  },
-  {
-    id: 11,
     src: "/vercel.png",
   },
   {
+    id: 10,
+    src: "/docker.png",
+  },
+  {
+    id: 11,
+    src: "/cicd.png",
+  },
+  {
     id: 12,
-    src: "/aws.png",
+    src: "/angular.png",
   },
   {
     id: 13,
-    src: "/npm.png",
+    src: "/shad.png",
   },
   {
     id: 14,
-    src: "/yarn.png",
+    src: "/js.png",
   },
   {
     id: 15,
-    src: "/node.png",
+    src: "/npm.png",
   },
   {
     id: 16,
-    src: "/js.png",
+    src: "/yarn.png",
   },
 ];
 
