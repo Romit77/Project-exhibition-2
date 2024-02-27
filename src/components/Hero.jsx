@@ -27,7 +27,7 @@ const ShuffleHero = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.5 }}
         >
-          Utilizing React, Tailwind, and AWS to power advanced plagiarism.
+          Utilizing React, Tailwind, and AWS to power advanced learning.
         </motion.p>
         <motion.button
           className="bg-indigo-500 text-white font-medium py-2 px-4 rounded-lg transition-all hover:bg-indigo-600 active:scale-95"
@@ -36,7 +36,7 @@ const ShuffleHero = () => {
           transition={{ delay: 2 }}
         >
           <a
-            href="https://drive.google.com/file/d/1FzlZX17vJS0NretJuQnZRwV-mZ00arMT/view?usp=sharing"
+            href="https://drive.google.com/file/d/1gjurt5Tj-qwm1mkthNhVpR7naSJE3J3t/view?usp=sharings"
             target="_blank"
           >
             Check it Out
