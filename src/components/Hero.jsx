@@ -19,7 +19,7 @@ const ShuffleHero = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 1 }}
         >
-          Plagiarism Detector
+          Resource Rise
         </motion.h3>
         <motion.p
           className="text-base md:text-lg my-4 md:my-6 text-gray-400"
@@ -27,11 +27,10 @@ const ShuffleHero = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.5 }}
         >
-          Utilizing Python, NLP, and TensorFlow to power advanced plagiarism
-          detection.
+          Utilizing React, Tailwind, and AWS to power advanced plagiarism.
         </motion.p>
         <motion.button
-          className="bg-indigo-500 text-white font-medium py-2 px-4 rounded-lg transition-all hover:bg-indigo-600 active:scale-95  "
+          className="bg-indigo-500 text-white font-medium py-2 px-4 rounded-lg transition-all hover:bg-indigo-600 active:scale-95"
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 2 }}
@@ -69,67 +68,67 @@ const shuffle = (array) => {
 const squareData = [
   {
     id: 1,
-    src: "/ai2.png",
+    src: "/angular.png",
   },
   {
     id: 2,
-    src: "/b2.png",
+    src: "/appwrite.png",
   },
   {
     id: 3,
-    src: "/ml.jpeg",
-  },
-  {
-    id: 4,
-    src: "/tensorflow.png",
-  },
-  {
-    id: 5,
-    src: "/py.png",
-  },
-  {
-    id: 6,
-    src: "/nlp.png",
-  },
-  {
-    id: 7,
-    src: "/pla.png",
-  },
-  {
-    id: 8,
-    src: "/pla2.png",
-  },
-  {
-    id: 9,
-    src: "/nlpp.png",
-  },
-  {
-    id: 10,
-    src: "/dlp.png",
-  },
-  {
-    id: 11,
     src: "/github.png",
   },
   {
+    id: 4,
+    src: "/docker.png",
+  },
+  {
+    id: 5,
+    src: "/cicd.png",
+  },
+  {
+    id: 6,
+    src: "/cloud.png",
+  },
+  {
+    id: 7,
+    src: "/NEXT.png",
+  },
+  {
+    id: 8,
+    src: "/react.png",
+  },
+  {
+    id: 9,
+    src: "/shad.png",
+  },
+  {
+    id: 10,
+    src: "/aws.png",
+  },
+  {
+    id: 11,
+    src: "/vercel.png",
+  },
+  {
     id: 12,
-    src: "/colab.png",
+    src: "/aws.png",
   },
   {
     id: 13,
-    src: "/vpl.png",
+    src: "/npm.png",
   },
   {
     id: 14,
-    src: "/nltk.png",
+    src: "/yarn.png",
   },
   {
     id: 15,
-    src: "/py2.png",
+    src: "/node.png",
   },
   {
     id: 16,
-    src: "/laptop.png",
+    src: "/js.png",
   },
 ];
 
