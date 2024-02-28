@@ -19,7 +19,7 @@ const ShuffleHero = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ delay: 1 }}
         >
-          Resource Rise
+          Academia Hub
         </motion.h3>
         <motion.p
           className="text-base md:text-lg my-4 md:my-6 text-gray-400"
