@@ -36,7 +36,7 @@ const ShuffleHero = () => {
           transition={{ delay: 2 }}
         >
           <a
-            href="https://drive.google.com/file/d/1gjurt5Tj-qwm1mkthNhVpR7naSJE3J3t/view?usp=sharings"
+            href="https://www.canva.com/design/DAF-AnDfRgA/5hCknCQzIZwpLPYcLriNbg/edit?utm_content=DAF-AnDfRgA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
             target="_blank"
           >
             Check it Out
